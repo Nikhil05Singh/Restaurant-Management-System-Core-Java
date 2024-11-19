@@ -1,0 +1,5 @@
+*********** Order List (2024_11_02) ***********
+Order ID:   1  StaffName:Rohit Sisodia                   Total:$13.00 
+Order ID:   2  StaffName:Nikhil Singh                    Total:$0.00  
+-------------------------------------------------------
+Total sales:$13.0(2)  Canceled:$0.0(0)

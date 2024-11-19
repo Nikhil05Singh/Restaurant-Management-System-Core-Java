@@ -1,0 +1,4 @@
+*********** Order List (2024_11_11) ***********
+Order ID:   1  StaffName:Nikhil Singh                    Total:$314.00 Canceled
+-------------------------------------------------------
+Total sales:$0.0(0)  Canceled:$314.0(1)

@@ -1,0 +1,5 @@
+*********** Payment List (2024_11_06) ***********
+Order ID:   7  StaffName:Nikhil Singh                    Work time:0.00  Pay:100.00
+Order ID:1111  StaffName:Rohit Sisodia                   Work time:0.00  Pay:0.00 
+-------------------------------------------------------
+Total payment:$100.0(2)

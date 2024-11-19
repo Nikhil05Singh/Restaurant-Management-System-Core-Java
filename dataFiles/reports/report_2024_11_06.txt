@@ -1,0 +1,4 @@
+*********** Order List (2024_11_06) ***********
+Order ID:   1  StaffName:Rohit Sisodia                   Total:$565.00 
+-------------------------------------------------------
+Total sales:$565.0(1)  Canceled:$0.0(0)

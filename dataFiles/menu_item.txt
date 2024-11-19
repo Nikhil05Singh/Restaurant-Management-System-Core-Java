@@ -1,0 +1,19 @@
+101,Paneer Kulhad Pizza,149.00,1
+102,Mushroom pasta,120.00,1
+103,Crispy Baby Corn,199.00,1
+104,Paneer Chilli,150.00,1
+105,Veg Manchurian,200.00,1
+201,Lassi,50.00,2
+202,Red Velvet Shake,199.00,2
+203,Tea,20.00,2
+204,Cold Coffee,199.00,2
+205,Immune Booster,345.00,2
+301,Old Monk,500.00,3
+302,Glass wine red,15.00,3
+303,Bottle wine white,30.00,3
+304,Bottle wine red,30.00,3
+401,Gulab Jamun,20.00,4
+402,Ice cream,10.00,4
+403,Gajar Ka Halwa,100.00,4
+404,Kaju Ki Barfi,600.00,4
+405,Jalebi,120.00,4

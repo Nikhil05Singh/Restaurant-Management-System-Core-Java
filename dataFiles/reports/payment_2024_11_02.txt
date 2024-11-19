@@ -1,0 +1,4 @@
+*********** Payment List (2024_11_02) ***********
+Order ID:   7  StaffName:Nikhil Singh                    Work time:0.00  Pay:100.00
+-------------------------------------------------------
+Total payment:$100.0(1)
